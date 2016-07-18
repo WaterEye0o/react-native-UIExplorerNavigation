@@ -1,0 +1,3 @@
+rootProject.name = 'UIExplorerNavigationDemo'
+
+include ':app'
